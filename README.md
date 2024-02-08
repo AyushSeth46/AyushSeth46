@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AyushSeth46
-- 👀 I’m interested in ...nothing
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...nothing
-- 📫 How to reach me ...noway
+- 👀 I’m interested in Full Stack Web developmenrt  
+- 🌱 I’m currently learning Nextjs
+
 
 <!---
 AyushSeth46/AyushSeth46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
